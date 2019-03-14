@@ -23,4 +23,19 @@
         tools:layout_editor_absoluteX="62dp"
         tools:layout_editor_absoluteY="242dp" />
 
+    <CalendarView
+        android:id="@+id/calendarView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="30dp"
+        tools:layout_editor_absoluteY="356dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="267dp"
+        android:layout_height="163dp"
+        android:text="TextView"
+        tools:layout_editor_absoluteX="91dp"
+        tools:layout_editor_absoluteY="96dp" />
+
 </android.support.constraint.ConstraintLayout>
